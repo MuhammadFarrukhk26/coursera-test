@@ -1,13 +1,15 @@
 section {
-  border: 1px solid blue;
+  border: 1px solid black;
   width: 100%;
   float: left;
+  font-family: "Brush Script MT", cursive;
+
 }
 
 div {
   margin: 14px;
   width: 350px;
-  height: 200px;
+  height: 250px;
 }
 .heading{
  text-align: center;
@@ -38,6 +40,6 @@ margin: 1.5px;
   float: inherit;
   background: gray;
   clear: right;
-  margin: 40px;
+  margin: 30px;
  border: 2px solid black;
 }
