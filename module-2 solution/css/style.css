@@ -43,3 +43,21 @@ margin: 1.5px;
   margin: 30px;
  border: 2px solid black;
 }
+
+/* start of desktop styles */
+
+@media screen and (max-width: 992px) {
+/* start of large tablet styles */
+  width : 100%;
+
+}
+
+@media screen and (min-width: 768px max-width: 991px) {
+/* start of medium tablet styles */
+width : 50%;
+}
+
+@media screen and (max-width: 767px) {
+/* start of phone styles */
+width : 30%;
+}
